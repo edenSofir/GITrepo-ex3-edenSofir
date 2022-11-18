@@ -5,7 +5,7 @@ public class EdenSofir
 	{
 		for(int i = 0; i <= 10; i++)
 		{
-			System.out.println("Eden Sofir..." + i);
+			System.out.println("Eden Sofir after changes..." + i);
 		}
 	}
 }
